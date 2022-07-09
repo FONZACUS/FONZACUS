@@ -1,0 +1,9 @@
+(function() {
+'use strict';
+var cuStyle = `
+CSS
+`;
+var styleTag = document.createElement('style');
+styleTag.appendChild(document.createTextNode(cuStyle));
+document.head.appendChild(styleTag);
+})();

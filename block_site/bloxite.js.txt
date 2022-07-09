@@ -1,0 +1,76 @@
+// ok
+const blockedSites = [
+'a.com',
+];
+const blockRegex = new RegExp(blockedSites.join('|'), 'i');
+if (blockRegex.test(window.location.hostname)) {
+window.location.href = 'https://google.com';
+}
+// This code will check if the current website's hostname matches any of the blocked sites in the blockedSites array. If there is a match, it will redirect the user to Google. You can modify the redirect URL or add more blocked sites to the array as needed.
+
+/*
+// 0 no
+// List of websites to block
+const blockedSites = [
+'a.com',
+// Add more websites to block here
+];
+// Function to check if the current URL matches a blocked site
+function isBlockedSite(url) {
+const regex = new RegExp(blockedSites.join('|'), 'i');
+return regex.test(url);
+}
+// Function to block access to a website
+function blockSite() {
+const currentUrl = window.location.href;
+if (isBlockedSite(currentUrl)) {
+// Redirect to a blocked page or display a message
+window.location.href = 'https://google.com';
+// or
+document.body.innerHTML = '<h1>Access denied</h1>';
+}
+}
+// Run the blockSite function on page load and on URL changes
+window.addEventListener('load', blockSite);
+window.addEventListener('hashchange', blockSite);
+window.addEventListener('popstate', blockSite);
+*/
+
+/* // 1 ok
+// Function to block websites
+function blockSites() {
+// Get the current date and time
+//const currentDate = new Date();
+// Define the list of websites to block
+const blockedSites = [
+'a.com',
+];
+// Loop through the list of blocked sites
+for (let i = 0; i < blockedSites.length; i++) {
+// Check if the current website is in the blocked list
+if (window.location.hostname === blockedSites[i]) {
+// Redirect the user to a different website
+//window.location.href = 'https://google.com';
+window.stop();
+}
+}
+// Schedule the function to run every 5 minutes
+//setTimeout(blockSites, 300000);
+}
+// Call the blockSites function to start blocking sites
+blockSites();
+*/
+
+/* // 2 no
+const blockedSites = [
+'a.com',
+];
+// Add a event listener to the document
+document.addEventListener('DOMContentLoaded', function() {
+// Check if the current page is in the list of blocked sites
+if (blockedSites.includes(window.location.href)) {
+// Block the site by preventing the page from loading
+window.location.href = 'https://google.com';
+}
+});
+*/
