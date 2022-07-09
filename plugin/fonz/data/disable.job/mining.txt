@@ -1,0 +1,13 @@
+disable mission
+	"Mineral Shortages (Silicon)"
+	"Mineral Shortages (Lead)"
+	"Mineral Shortages (Iron)"
+	"Mineral Shortages (Aluminum)"
+	"Mineral Shortages (Titanium)"
+	"Mineral Shortages (Copper)"
+	"Mineral Shortages (Neodymium)"
+	"Mineral Shortages (Tungsten)"
+	"Mineral Shortages (Uranium)"
+	"Mineral Shortages (Silver)"
+	"Mineral Shortages (Gold)"
+	"Mineral Shortages (Platinum)"

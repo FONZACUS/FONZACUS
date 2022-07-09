@@ -1,0 +1,29 @@
+disable mission
+	"Cargo [0]"
+	"Cargo [1]"
+	"Cargo [2]"
+	"Cargo [3]"
+	"Cargo [4]"
+	"Cargo [5]"
+
+	"Bulk Delivery [0]"
+	"Bulk Delivery [1]"
+	"Bulk Delivery [2]"
+	"Bulk Delivery [3]"
+
+	"Rush Delivery [0]"
+	"Rush Delivery [1]"
+	"Rush Delivery [2]"
+	"Rush Delivery [3]"
+	"Rush Delivery [4]"
+
+	"Large Bulk Delivery [0]"
+	"Large Bulk Delivery [1]"
+	"Large Bulk Delivery [2]"
+
+	"Large Rush Delivery [0]"
+	"Large Rush Delivery [1]"
+	"Large Rush Delivery [2]"
+	"Large Rush Delivery [3]"
+
+	"Recycle garbage"

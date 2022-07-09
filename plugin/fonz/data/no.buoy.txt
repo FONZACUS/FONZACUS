@@ -1,0 +1,10 @@
+disable mission
+	"Message Buoy: Betelgeuse Shipyards"
+	"Message Buoy: Entering Deep space"
+	"Message Buoy: Entering Free Worlds space from Pirate"
+	"Message Buoy: Entering Free Worlds space from Republic"
+	"Message Buoy: Entering Republic space from Pirates"
+	"Message Buoy: Entering Syndicate space"
+	"Message Buoy: Megaparsec"
+	"Message Buoy: Tarazed Corporation"
+	"Message Buoy: beyond Farpoint"

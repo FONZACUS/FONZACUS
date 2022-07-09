@@ -1,0 +1,20 @@
+disable mission
+	"Bounty Hunting (Very Tiny)"
+	"Bounty Hunting (Very Tiny, Local)"
+	"Bounty Hunting (Tiny)"
+	"Bounty Hunting (Tiny, Local)"
+	"Bounty Hunting (Very Small)"
+	"Bounty Hunting (Very Small, Local)"
+	"Bounty Hunting (Small)"
+	"Bounty Hunting (Small, Local)"
+	"Bounty Hunting (Medium)"
+	"Bounty Hunting (Medium, Local)"
+	"Bounty Hunting (Big)"
+	"Bounty Hunting (Big Local)"
+
+	"Bounty Hunting (Small, Hidden)"
+	"Bounty Hunting (Medium, Hidden)"
+	"Bounty Hunting (Big, Hidden)"
+
+	"Bounty Hunting (Small, Boarding, Entering)"
+	"Bounty Hunting (Medium, Boarding, Entering)"
