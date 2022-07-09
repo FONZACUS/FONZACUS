@@ -1,0 +1,39 @@
+/* main setting */
+* * * block
+* 1st-party * allow
+
+/* allow */
+* google.com * allow
+* cloudflare.com * allow
+* jsdelivr.com * allow
+
+/* block */
+* facebook.com * block
+* facebook.net * block
+* instagram.com * block
+* tiktok.com * block
+* twitch.tv * block
+* twitter.com * block
+* x.com * block
+* chatango.com * block
+* dailymotion.com * block
+* disqus.com * block
+* discord.com * block
+
+/* font */
+* fonts.googleapis.com * block
+* fonts.gstatic.com * block
+* fonts.adobe.com * block
+* fonts.bunny.net * block
+* fonts.cdnfonts.com * block
+* fonts.designs.ai * block
+* api.fonts.coollabs.io * block
+* cdn.fonts.net * block
+* cdn.fontshare.com * block
+* cdn.myfontastic.com * block
+* db.onlinewebfonts.com * block
+* fast.font.net * block
+* glyph.medium.com * block
+* static-webfonts.myfonts.com * block
+* use.edgefonts.net * block
+* use.typekit.net * block

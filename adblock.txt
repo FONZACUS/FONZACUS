@@ -1,0 +1,29 @@
+! Title: FONZLIST
+! GLOBAL
+! bork if + more types
+!*$3p,frame,redirect=click2load.html
+
+! ALLOW
+@@||google.com
+@@||cloudflare.com
+@@||jsdelivr.com
+
+! BLOCK
+
+! FONT
+||fonts.googleapis.com
+||fonts.gstatic.com
+||fonts.adobe.com
+||fonts.bunny.net
+||fonts.cdnfonts.com
+||fonts.designs.ai
+||api.fonts.coollabs.io
+||cdn.fonts.net
+||cdn.fontshare.com
+||cdn.myfontastic.com
+||db.onlinewebfonts.com
+||fast.font.net
+||glyph.medium.com
+||static-webfonts.myfonts.com
+||use.edgefonts.net
+||use.typekit.net

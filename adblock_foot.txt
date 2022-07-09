@@ -1,0 +1,18 @@
+! Title: FONZLIST foot
+! GLOBAL
+##footer
+###footer
+##.footer
+##.footer-app
+##.footer-block
+##.footer-container
+##.footer-content
+##.footer-divider
+##.footer-parent
+##.footer_new
+
+##.container-footer
+##.global-footer
+##.inner-footer
+##.rj-footer
+##.small-footer

@@ -1,0 +1,13 @@
+/*black css*/
+html,html *,body,body *
+{background:#000!important;color:#FFF!important}
+a{color:#AFF!important}a:visited{color:#FAF!important}
+source,source *,media,media *,video,video *,audio,audio *, track,track *,
+img,img *,svg,svg *,picture,picture *,area,area *,canvas,canvas *,
+object,object *,embed,embed *,iframe,iframe *,portal,portal *
+{background:initial!important;color:initial!important}
+/*
+html,img,video{filter:invert(1) hue-rotate(180deg) !important;}
+body{background:white !important;}
+img[src],input[type=image]{opacity:.9;}
+*/
